@@ -17,4 +17,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jevinkalathiya&show_icons=true&locale=en" alt="jevinkalathiya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jevinkalathiya&" alt="jevinkalathiya1" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jevinkalathiya&" alt="jevinkalathiya1" />
+</p>
+
