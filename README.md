@@ -22,6 +22,6 @@
 <h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=jevinkalathiya&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats-alpha-seven.vercel.app/?user=jevinkalathiya&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
