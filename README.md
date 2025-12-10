@@ -20,4 +20,5 @@
 <p align="center">
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jevinkalathiya)](https://git.io/streak-stats)
 </p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jevinkalathiya)](https://git.io/streak-stats)
 
