@@ -18,6 +18,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jevinkalathiya&" alt="jevinkalathiya1" />
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jevinkalathiya)](https://git.io/streak-stats)
 </p>
 
