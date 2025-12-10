@@ -16,7 +16,7 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight.vercel.app/api?username=jevinkalathiya&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jevinkalathiya" alt="GitHub Stats" />
 </p>
 
 <h2 align="center">🔥 GitHub Streak</h2>
