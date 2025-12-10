@@ -17,8 +17,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jevinkalathiya&show_icons=true&locale=en" alt="jevinkalathiya" />
 </p>
 
+<h2 align="center">🔥 GitHub Streak</h2>
+
 <p align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jevinkalathiya)](https://git.io/streak-stats)
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=jevinkalathiya&theme=tokyonight" alt="GitHub Streak" />
 </p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jevinkalathiya)](https://git.io/streak-stats)
 
