@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jevinkalathiya&label=Profile%20views&color=0e75b6&style=flat" alt="jevinkalathiya" /> </p>
 
 <div align="center">
-<h2>My Skill Set</h2> 
+<h2>My Skill Set's</h2> 
 <table><tr><td valign="top" width="33%">
 <h2>Frontend</h2>
 <div align="center">  
