@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Myself Jevin Kalathiya</h1>
+<h1 align="center">Hello 👋, Myself Jevin Kalathiya</h1>
 <h3 align="center">I am passionate Backend Developer & Aspiring Software Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jevinkalathiya&label=Profile%20views&color=0e75b6&style=flat" alt="jevinkalathiya" /> </p>
